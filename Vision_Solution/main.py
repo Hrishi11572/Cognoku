@@ -145,5 +145,3 @@ for i in range(len(gray_cells)):
 
 final_matrix = np.array(final_matrix).reshape((9, 9))
 print(final_matrix) 
-
-
